@@ -1,4 +1,4 @@
-## 🌟 Jana's Daughter Talent Profile | ملف إنجاز وموهبة جنى
+# 🌟 Jana's Daughter Talent Profile | ملف إنجاز وموهبة جنى
 
 Welcome to the official talent profile and digital portfolio for my daughter, **Jana**. This project is a visually stunning, responsive web showcase designed to highlight her creative talents, certificates, and achievements.
 
@@ -29,5 +29,5 @@ As a designer and developer, I built this platform from scratch with a focus on 
 
 ## 🛠️ Built By | تم التطوير بواسطة
 
-* **Developer & Designer:** Mai Abu Al Saud
+* **Engineer Architacture:** Mai Abu Al Saud
 * **Role:** Proud Mother & Digital Transformation Enthusiast 💻✨
