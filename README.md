@@ -1,4 +1,4 @@
-# The official Talent Website for my daghter; desgined using HTML,CSS & JS
+# The official Talent Website for my daughter; desgined using HTML,CSS & JS
 
 ## https://mabualsaud.github.io/Jana-al-saif-talent-profile/
 
