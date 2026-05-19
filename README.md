@@ -2,7 +2,7 @@
 
 ## https://mabualsaud.github.io/Jana-al-saif-talent-profile/
 
-# 🌟 Jana's Daughter Talent Profile | ملف إنجاز وموهبة جنى
+# 🌟 Jana's Talent Profile | ملف إنجاز وموهبة جنى
 
 Welcome to the official talent profile and digital portfolio for my daughter, **Jana**. This project is a visually stunning, responsive web showcase designed to highlight her creative talents, certificates, and achievements.
 
